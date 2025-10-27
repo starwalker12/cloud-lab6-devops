@@ -21,3 +21,5 @@ formats (binary, decimal, hexadecimal).
 ```bash
 # Install dependencies
 npm install
+
+fardanaatir
